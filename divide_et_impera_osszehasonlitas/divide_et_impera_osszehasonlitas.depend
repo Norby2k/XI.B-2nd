@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579152240 source:d:\norbi\masodikfelev\divide_et_impera_osszehasonlitas\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
