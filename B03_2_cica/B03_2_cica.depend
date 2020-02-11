@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580978658 source:d:\norbi\masodikfelev\b03_2_cica\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
